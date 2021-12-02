@@ -1,4 +1,4 @@
-# tcc
+# Trabalho de Conclusão do Curso - Ciência da Computação
 Esse repositório conterá os dados e algorítmos utilizados durante a realização do Trabalho de Conclusão de Curso de Ciência da Computação.
 
 Os dados e algoritmos serão disponibizados neste repositório público após a conclusão do estudo.
