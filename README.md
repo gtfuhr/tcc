@@ -50,16 +50,19 @@ Orientate/Orientando: Gabriel Tobias Fuhr
 ## Resources:
 
 Python Notebook for the Binary Classification:
-[Binary Classification]()
+[Binary Classification](https://github.com/gtfuhr/tcc/blob/main/Use_of_Machine_Learning_to_classify_companies_credit_through_financial_statements_binary.ipynb)
 
 Python Notebook for the Multiclass Classification:
-[Multiclass Classification]()
-
-Original Data:
-[Original Data]()
-
-Parsed Data:
-[Parsed Data]()
+[Multiclass Classification](https://github.com/gtfuhr/tcc/blob/main/Use_of_Machine_Learning_to_classify_companies_credit_through_financial_statements_multiclass.ipynb)
 
 Data parser:
-[Data parser]()
+[Data parser](https://github.com/gtfuhr/tcc/blob/main/LoadingDatasets.ipynb)
+
+Original Data:
+[Original Data](https://drive.google.com/file/d/1fJB-91B6UwIKL8ETIE2suqJDausmO7ha/view?usp=sharing)
+
+Parsed Data:
+[Parsed Data](https://drive.google.com/file/d/1ocE_hBb6TIAuz7zodzTogTiEFGqUjnwF/view?usp=sharing)
+
+File representation of the Models utilized in the final version of the assignment:
+[Models Used](https://drive.google.com/file/d/18hHGVMWwnA8yvYle34QqPKmXjcgok0U8/view?usp=sharing)
